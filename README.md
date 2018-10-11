@@ -1,5 +1,7 @@
 # Cross-platform SQLite storage plugin for Cordova/PhoneGap
 
+XXX TEST TODO: test with 20 emoji characters (evcore issue xxx)
+
 Native SQLite component with API based on HTML5/[Web SQL (DRAFT) API](http://www.w3.org/TR/webdatabase/) for the following platforms:
 - Android
 - iOS
